@@ -25,7 +25,6 @@ function Header() {
          <Link to="/marketplace">Marketplace</Link>
          <Link to="/stats">Stats</Link>
          <Link to="/activity">Activity</Link>
-        <button>Connect wallet</button>
         </>
       </nav>
     </header>

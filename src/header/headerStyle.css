@@ -39,6 +39,7 @@ header {
   header nav {
     display: flex;
     flex:1;
+    justify-content: end;
   }
   
   header nav a {

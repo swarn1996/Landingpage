@@ -31,7 +31,7 @@ function Home() {
   ];
 
   return (
-    <section style={{ display: "flex" }}>
+    <section style={{ display: "flex" , justifyContent:"center"}}>
       {cardDemoData.map((card, index) => {
         return (
           <div className="card" key={index}>
